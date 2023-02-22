@@ -1,4 +1,3 @@
-using System;
 using UnityEngine;
 
 namespace Player
@@ -130,7 +129,4 @@ namespace Player
             _rigidbody.gravityScale = 0;
         }
     }
-
-
-
 }
